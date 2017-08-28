@@ -5,7 +5,7 @@
 
 $mysql_host = "localhost";
 $username = "root";
-$password = "";
+$password = "*****";
 $mysql_database = "php_api";
 
 $con = mysqli_connect($mysql_host, $username, $password, $mysql_database);
